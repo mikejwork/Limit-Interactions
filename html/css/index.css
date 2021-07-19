@@ -1,0 +1,10 @@
+.btn:focus {
+    outline: none !important;
+    box-shadow: none !important;
+    
+}
+
+.btn:hover { 
+    outline: 0 !important;
+    color: rgba(64, 161, 207, 255) !important;
+}
