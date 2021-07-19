@@ -11,6 +11,6 @@ Limit-Interactions provides event handlers for users to create new interactable 
 Lua, Javascript, HTML / CSS, Ractive.js
 
 #### References ####
-[FiveM Documentation](https://docs.fivem.net/docs/ "FiveM Documentation")
-[GTA V Prop hashes](http://gtahash.site/?s=121155 "GTA V Prop hashes")
-[Ractive.js](https://ractive.js.org "Ractive.js")
+[FiveM Documentation](https://docs.fivem.net/docs/ "FiveM Documentation")  
+[GTA V Prop hashes](http://gtahash.site/?s=121155 "GTA V Prop hashes")  
+[Ractive.js](https://ractive.js.org "Ractive.js")  
