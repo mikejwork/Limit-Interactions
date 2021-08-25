@@ -1,5 +1,5 @@
 <h1 align="center">
-	<br>
+    <br>
     <img src="https://i.imgur.com/Pq1PHnN.png" alt="Limit" width="450">
     <br>
 </h1>
@@ -25,6 +25,11 @@ Limit-Interactions provides a system for users to create new interactable game p
 - [Ractive.js](https://ractive.js.org "Ractive.js")  
 
 ## Usage
+<h1 align="center">
+    <br>
+    <img src="https://i.imgur.com/buNiN9F.png" alt="usage" width="450">
+    <br>
+</h1>
 
 ## Showcase
 ![Showcase](showcase/showcase.gif)
