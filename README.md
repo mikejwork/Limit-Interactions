@@ -27,10 +27,8 @@ Limit-Interactions provides a system for users to create new interactable game p
 # Usage
 <h1 align="center">
     <img src="https://i.imgur.com/buNiN9F.png" alt="usage" width="750">
+    ![Showcase](showcase/showcase.gif)
 
-
-## Showcase
-![Showcase](showcase/showcase.gif)
 
 ## Infrastructure
 Project is created with:
