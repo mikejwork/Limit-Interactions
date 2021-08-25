@@ -24,7 +24,7 @@ Limit-Interactions provides a system for users to create new interactable game p
 - [GTA V Prop hashes](http://gtahash.site/?s=121155 "GTA V Prop hashes")  
 - [Ractive.js](https://ractive.js.org "Ractive.js")  
 
-## Usage
+# Usage
 <h1 align="center">
     <img src="https://i.imgur.com/buNiN9F.png" alt="usage" width="750">
 </h1>
