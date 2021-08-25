@@ -9,7 +9,7 @@
 <p align="center">
   <a href="#credits">Credits</a> •
   <a href="#usage">Usage</a> •
-  <a href="#showcase">Showcase</a> •
+  <a href="#usage">Showcase</a> •
   <a href="#infrastructure">Infrastructure</a> •
   <a href="#personal-notes">Personal notes</a>
 </p>
