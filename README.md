@@ -27,7 +27,7 @@ Limit-Interactions provides a system for users to create new interactable game p
 # Usage
 <p align="center">
     <img src="https://i.imgur.com/buNiN9F.png" alt="usage" width="750">
-    <img src="showcase/showcase.gif" alt="usage" width="550">
+    <img src="showcase/showcase.gif" alt="usage" width="600">
 </p>
 
 ## Infrastructure
