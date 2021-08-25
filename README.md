@@ -25,10 +25,10 @@ Limit-Interactions provides a system for users to create new interactable game p
 - [Ractive.js](https://ractive.js.org "Ractive.js")  
 
 # Usage
-<h1 align="center">
+<p align="center">
     <img src="https://i.imgur.com/buNiN9F.png" alt="usage" width="750">
     <img src="showcase/showcase.gif" alt="usage" width="750">
-
+</p>
 
 ## Infrastructure
 Project is created with:
